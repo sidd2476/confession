@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1088917013453",
+    "firebase_url": "https://flash-chat-c091e.firebaseio.com",
+    "project_id": "flash-chat-c091e",
+    "storage_bucket": "flash-chat-c091e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088917013453:android:3e6c1a403b2a8d7a1b7a84",
+        "android_client_info": {
+          "package_name": "com.manpreet.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088917013453-apgoj58p5opb7nrstd3um0c6n1g7vvij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjD5nCw8pyPUW3-Xi7FVlPWfaMkZ3W4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088917013453-apgoj58p5opb7nrstd3um0c6n1g7vvij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088917013453:android:efb44698d5b4dc521b7a84",
+        "android_client_info": {
+          "package_name": "com.siddhanth.flutter_app11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088917013453-apgoj58p5opb7nrstd3um0c6n1g7vvij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjD5nCw8pyPUW3-Xi7FVlPWfaMkZ3W4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088917013453-apgoj58p5opb7nrstd3um0c6n1g7vvij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
